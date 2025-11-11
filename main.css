@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+
+body{ 
+    text-align :center;
+    line-height:1;
+}
+
+p{
+    color: brown; 
+        
+}
+
+h1 {
+    font-family: "copperplate", "helvetica", sans-serif;
+}
