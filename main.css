@@ -1,17 +1,77 @@
 body {
-    background-color: aquamarine;
+    background-color: firebrick;
 }
 
+
 body{ 
-    text-align :center;
+    text-align :left;
     line-height:1;
 }
 
 p{
-    color: brown; 
+    color: black; 
+    line-height :1;
+    font-family: "courier new", "helvetica", sans-serif;
         
 }
 
 h1 {
-    font-family: "copperplate", "helvetica", sans-serif;
+    font-family: "courier new", "helvetica", sans-serif;
+    text-align :center;
 }
+
+
+a{
+    color:black;
+    font-eight: bold;
+    text-decoration: none;
+    Margin-left:200px;
+}
+
+hr{
+    color:black;
+
+}
+
+.vl {
+  border-left: 3px solid black;
+  height: 90px;
+  position: absolute;
+  left: 29%;
+  margin-left: -3px;
+  top: 0;
+}
+
+.vl2 {
+  border-left: 3px solid black;
+  height: 90px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+
+
+.vl3 {
+  border-left: 3px solid black;
+  height: 90px;
+  position: absolute;
+  left: 75%;
+  margin-left: -3px;
+  top: 0;
+}
+    
+    
+.vl4 {
+  border-left: 3px solid black;
+  height: 90px;
+  position: absolute;
+  left: 7%;
+  margin-left: -3px;
+  top: 0;
+}
+
+
+
+
+
